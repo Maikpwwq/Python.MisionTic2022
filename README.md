@@ -1,6 +1,7 @@
 # Python.MisionTic2022
 
 ![MisionTic2022](MisionTic2022.png)
+
 [Ir al sitio web del programa Mision Tic 2022](https://www.misiontic2022.gov.co/portal/)
 
 El ciclo No. 1 del programa fue trabajado en el lenguaje imperativo Python3
